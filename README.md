@@ -13,9 +13,6 @@ MUM Scrum is online tool for managing agile scrum, the tool developed using Angu
 ### Login Page:
 ![](https://raw.githubusercontent.com/amrelhagary/MUM_SCRUM/master/screenshots/Login.png)
 
-### User Section:
-![](https://raw.githubusercontent.com/amrelhagary/MUM_SCRUM/master/screenshots/Employees_1.png)
-
 ### Sprint Section:
 ![](https://raw.githubusercontent.com/amrelhagary/MUM_SCRUM/master/screenshots/Sprint_1.png)
 
